@@ -15,20 +15,15 @@ https://faichun.github.io/my-dashboard/
 - [youracclaim](https://www.youracclaim.com/users/faichun/badges)
 
 
-## Web Design Demonstration
+## Innovation Demonstration
 
 - [My Profile](https://faichun.github.io/profile/)
-- [Shortcut to Little Spring Footprint channel](https://bit.ly/little-spring-footprint)
+- YouTube Channel
+  - [Little Spring Footprint - https://youtube.com/@littlespringfootprint](https://youtube.com/@littlespringfootprint)
+  - [Little Spring Footprint - https://bit.ly/little-spring-footprint](https://bit.ly/little-spring-footprint)
 - [Studio 1236 壹貳叄陸工作室](https://studio1236.blogspot.com/)
 - [Lion Rock Studio @ WordPress](https://lionrockstudio.wordpress.com/)
 - [Opensea](https://opensea.io/faichun)
-
-## YouTube Channel
-
-- [Little Spring Footprint - https://youtube.com/@littlespringfootprint](https://youtube.com/@littlespringfootprint)
-  
-  ![Little Spring Footprint](my-youtube-channel-qrcode.png)
-- [Little Spring Footprint - https://bit.ly/little-spring-footprint](https://bit.ly/little-spring-footprint)
 
 ## Google Maps 
 
@@ -79,5 +74,8 @@ https://faichun.github.io/my-dashboard/
 - [jackfclee](https://github.com/jackfclee)
 - [faichun](https://github.com/faichun)
 
+## QR Code to YouTube Channel
+
+![Little Spring Footprint](my-youtube-channel-qrcode.png)
 
 
