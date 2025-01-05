@@ -17,9 +17,10 @@ https://faichun.github.io/my-dashboard/
 
 ## Web Design Demonstration
 
-- [Company Profile](https://faichun.github.io/profile/)
-- [Lion Rock Studio @ WordPress](https://lionrockstudio.wordpress.com/)
+- [Personal Profile](https://faichun.github.io/profile/)
 - [Shortcut to Little Spring Footprint channel](https://bit.ly/little-spring-footprint)
+- [Studio 1236 壹貳叄陸工作室]([https://faichun.github.io/profile/](https://studio1236.blogspot.com/)
+- [Lion Rock Studio @ WordPress](https://lionrockstudio.wordpress.com/)
 - [Opensea](https://opensea.io/faichun)
 
 ## YouTube Channel
