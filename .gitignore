@@ -94,6 +94,7 @@ gradle
 .buildpath
 
 ## PYTHON ##
+**/.pytest_cache/*
 .ipynb_checkpoints
 .tox
 swagger_server.egg-info
@@ -107,6 +108,7 @@ myenv/
 bin/
 obj/
 publish/
+
 
 ## css ##
 *.css.map
