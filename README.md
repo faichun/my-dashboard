@@ -21,7 +21,9 @@ https://faichun.github.io/my-dashboard/
 - YouTube Channel
   - [Little Spring Footprint - https://youtube.com/@littlespringfootprint](https://youtube.com/@littlespringfootprint)
   - [Little Spring Footprint - https://bit.ly/little-spring-footprint](https://bit.ly/little-spring-footprint)
-- [Studio 1236 壹貳叄陸工作室](https://studio1236.blogspot.com/)
+- Studio 1236 壹貳叄陸工作室
+  - [Studio 1236 壹貳叄陸工作室 - patreon](https://patreon.com/Studio1236)
+  - [Studio 1236 壹貳叄陸工作室 - blogspot](https://studio1236.blogspot.com/)
 - [Lion Rock Studio @ WordPress](https://lionrockstudio.wordpress.com/)
 - [Opensea](https://opensea.io/faichun)
 
